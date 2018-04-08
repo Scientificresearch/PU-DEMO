@@ -1,0 +1,5 @@
+1. First run \liblinear-2.11\matlab\make.m to mex .c file to support libsvm
+2. Run "PUAlgorithmExample.m"
+
+See details in paper: 
+"Margin based PU Learning", Tieliang Gong*, Guangtao Wang, Jieping Ye, Zongben Xu,Ming Lin, AAAI 2018.
